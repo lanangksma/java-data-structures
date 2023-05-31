@@ -13,7 +13,10 @@ out/
 target/
 build/
 bin/
+/.idea/
+/out/
 
 # File log
 *.log
 *.log.*
+
