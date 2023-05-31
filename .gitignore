@@ -1,0 +1,19 @@
+# Direktori IntelliJ IDEA
+.idea/
+
+# File modul IntelliJ IDEA
+*.iml
+
+# File konfigurasi proyek IntelliJ IDEA
+*.ipr
+*.iws
+
+# Direktori output dan hasil kompilasi
+out/
+target/
+build/
+bin/
+
+# File log
+*.log
+*.log.*
