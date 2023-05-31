@@ -17,3 +17,4 @@ bin/
 # File log
 *.log
 *.log.*
+logs/
